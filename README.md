@@ -1,10 +1,10 @@
-# Hair Colors (& Styles) -  Trendy Ideas to Try in 2022 - Is Orange the New Black?
+# More Punk Building Blocks in the 24×24px Format
 
 
 
 ## Questions? Comments?
 
-Post them on the [D.I.Y. Punk (Pixel) Art reddit](https://old.reddit.com/r/DIYPunkArt). Thanks.
+Post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.
 
 
 

@@ -61,6 +61,46 @@ in 8x
 
 
 
+## William Shakespeare
+
+
+> DUKE  Are you a maid?<br>
+> MARIANA  No, my lord.<br>
+> DUKE  A widow, then?<br>
+> MARIANA  Neither, my lord.<br>
+> DUKE  Why you are nothing, then, neither maid, widow, nor wife?<br>
+> LUCIO  My lord, she may be a punk, for many of them are neither maid, widow, nor wife.
+>
+> Measure for Measure, Act 5, Scene 1
+
+
+
+base ![](shakespeare/base.png)
+eyebrows ![](shakespeare/eyebrows.png)
+hair ![](shakespeare/hair.png)
+beard ![](shakespeare/beard.png)
+shirt ![](shakespeare/shirt.png)
+
+in action 
+
+![](shakespeare/i/step1.png)
+![](shakespeare/i/step2.png)
+![](shakespeare/i/step3.png) <br>
+![](shakespeare/i/step1a.png)
+![](shakespeare/i/step2a.png)
+![](shakespeare/i/step3a.png)
+
+
+in 8x
+
+![](shakespeare/i/step1@8x.png)
+![](shakespeare/i/step2@8x.png)
+![](shakespeare/i/step3@8x.png) <br>
+![](shakespeare/i/step1a@8x.png)
+![](shakespeare/i/step2a@8x.png)
+![](shakespeare/i/step3a@8x.png) 
+
+
 
 
 ## Questions? Comments?

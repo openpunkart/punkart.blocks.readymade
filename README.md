@@ -19,12 +19,16 @@ in action
 ![](corleone/i/step3.png)
 ![](corleone/i/step4.png)
 
-in 8x
+<details>
+<summary markdown="1">8x</summary>
 
 ![](corleone/i/step1@8x.png)
 ![](corleone/i/step2@8x.png)
 ![](corleone/i/step3@8x.png)
 ![](corleone/i/step4@8x.png)
+
+</details>
+
 
 
 ## Leonardo da Vinci
@@ -49,8 +53,8 @@ in action
 ![](davinci/i/step2a.png)
 ![](davinci/i/step3a.png)
 
-
-in 8x
+<details>
+<summary markdown="1">8x</summary>
 
 ![](davinci/i/step1@8x.png)
 ![](davinci/i/step2@8x.png)
@@ -58,6 +62,9 @@ in 8x
 ![](davinci/i/step1a@8x.png)
 ![](davinci/i/step2a@8x.png)
 ![](davinci/i/step3a@8x.png) 
+
+</details>
+
 
 
 
@@ -90,8 +97,8 @@ in action
 ![](shakespeare/i/step2a.png)
 ![](shakespeare/i/step3a.png)
 
-
-in 8x
+<details>
+<summary markdown="1">8x</summary>
 
 ![](shakespeare/i/step1@8x.png)
 ![](shakespeare/i/step2@8x.png)
@@ -100,6 +107,7 @@ in 8x
 ![](shakespeare/i/step2a@8x.png)
 ![](shakespeare/i/step3a@8x.png) 
 
+</details>
 
 
 

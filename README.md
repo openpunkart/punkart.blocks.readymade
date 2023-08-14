@@ -9,7 +9,7 @@ hair ![](corleone/hair.png)
 beard ![](corleone/beard.png)
 smoking ![](corleone/smoking.png)
 shades ![](corleone/shades.png)
-cigar ![](corleone/cigar)
+cigar ![](corleone/cigar.png)
 
 
 in action 

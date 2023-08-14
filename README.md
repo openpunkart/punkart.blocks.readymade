@@ -67,6 +67,31 @@ in action
 
 
 
+## Vincent van Gogh
+
+base ![](vangogh/base.png)
+eyebrows ![](vangogh/eyebrows.png)
+hair ![](vangogh/hair.png)
+beard ![](vangogh/beard.png)
+
+
+in action 
+
+![](vangogh/i/step1.png)
+![](vangogh/i/step2.png)
+![](vangogh/i/step3.png)
+
+<details>
+<summary markdown="1">8x</summary>
+
+![](vangogh/i/step1@8x.png)
+![](vangogh/i/step2@8x.png)
+![](vangogh/i/step3@8x.png)  
+
+</details>
+
+
+
 
 ## William Shakespeare
 

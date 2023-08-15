@@ -155,7 +155,6 @@ hoodie (green) ![](frida/hoodie-green.png)
 (white) ![](frida/hoodie-white.png)
 (red) ![](frida/hoodie-red.png)
 big shades (green) ![](frida/bigshades.png)
-bitcoin shades ![](frida/bitcoinshades.png)
 vison pro ![](frida/visonpro.png)
 
 
@@ -163,8 +162,7 @@ in action
 
 ![](frida/i/step1.png)
 ![](frida/i/step2.png)
-![](frida/i/step3.png)
-![](frida/i/step4.png)  <br>
+![](frida/i/step3.png) <br>
 ![](frida/i/step1e.png)
 ![](frida/i/step2e.png) <br>
 ![](frida/i/step1a.png)
@@ -182,8 +180,7 @@ in action
 
 ![](frida/i/step1@8x.png)
 ![](frida/i/step2@8x.png)
-![](frida/i/step3@8x.png)
-![](frida/i/step4@8x.png)  <br>
+![](frida/i/step3@8x.png) <br>
 ![](frida/i/step1e@8x.png)
 ![](frida/i/step2e@8x.png) <br>
 ![](frida/i/step1a@8x.png)

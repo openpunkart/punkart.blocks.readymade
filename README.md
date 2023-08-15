@@ -136,6 +136,48 @@ in action
 
 
 
+## Frida Khalo
+
+
+base ![](frida/base.png)
+eyebrows ![](frida/eyebrows.png)
+hair ![](frida/hair.png)
+rosy cheeks ![](frida/rosycheeks.png)
+lipstick ![](frida/lipstick.png)
+earring ![](frida/earring.png)
+
+bonus - mohawk (red) ![](frida/mohawk-red.png)
+lipstick (green) ![](frida/lipstick-green.png)
+earring (cross) ![](frida/earring2.png)
+headband ![](frida/headband.png)
+hoodie (green) ![](frida/hoodie-green.png)
+(white) ![](frida/hoodie-white.png)
+(red) ![](frida/hoodie-red.png)
+big shades (green) ![](frida/bigshades.png)
+bitcoin shades ![](frida/bitcoinshades.png)
+vison pro ![](frida/visonpro.png)
+
+
+in action 
+
+![](frida/i/step1.png)
+![](frida/i/step2.png)
+![](frida/i/step3.png)
+![](frida/i/step4.png)  <br>
+![](frida/i/step1e.png)
+![](frida/i/step2e.png) <br>
+![](frida/i/step1a.png)
+![](frida/i/step2a.png)
+![](frida/i/step2b.png)
+![](frida/i/step3b.png)
+![](frida/i/step2c.png)
+![](frida/i/step3c.png) <br>
+![](frida/i/step1d.png)
+![](frida/i/step2d.png)
+
+
+
+
 ## Questions? Comments?
 
 Post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.

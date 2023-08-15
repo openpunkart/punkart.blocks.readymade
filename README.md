@@ -142,6 +142,7 @@ in action
 base ![](frida/base.png)
 eyebrows ![](frida/eyebrows.png)
 hair ![](frida/hair.png)
+flowers ![](frida/flowers.png)
 rosy cheeks ![](frida/rosycheeks.png)
 lipstick ![](frida/lipstick.png)
 earring ![](frida/earring.png)
@@ -175,6 +176,26 @@ in action
 ![](frida/i/step1d.png)
 ![](frida/i/step2d.png)
 
+
+<details>
+<summary markdown="1">8x</summary>
+
+![](frida/i/step1@8x.png)
+![](frida/i/step2@8x.png)
+![](frida/i/step3@8x.png)
+![](frida/i/step4@8x.png)  <br>
+![](frida/i/step1e@8x.png)
+![](frida/i/step2e@8x.png) <br>
+![](frida/i/step1a@8x.png)
+![](frida/i/step2a@8x.png)
+![](frida/i/step2b@8x.png)
+![](frida/i/step3b@8x.png)
+![](frida/i/step2c@8x.png)
+![](frida/i/step3c@8x.png) <br>
+![](frida/i/step1d@8x.png)
+![](frida/i/step2d@8x.png)
+
+</details>
 
 
 

@@ -135,6 +135,35 @@ in action
 </details>
 
 
+# Karl Lagerfeld
+
+base ![](karl/base.png)
+eyebrows ![](karl/eyebrows.png)
+hair ![](karl/hair.png)
+smoking ![](karl/smoking.png)
+shades ![](karl/shades.png)
+bonus - vision pro ![](karl/visionpro.png)
+
+
+in action 
+
+![](karl/i/step1.png)
+![](karl/i/step2.png)
+![](karl/i/step3.png)
+![](karl/i/step1a.png)
+
+<details>
+<summary markdown="1">8x</summary>
+
+![](karl/i/step1@8x.png)
+![](karl/i/step2@8x.png)
+![](karl/i/step3@8x.png)
+![](karl/i/step1a@8x.png)
+
+</details>
+
+
+
 
 ## Frida Khalo
 

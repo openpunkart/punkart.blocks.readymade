@@ -1,4 +1,4 @@
-# More Punk Building Blocks in the 24×24px Format
+# Readymade Characters - Punk Building Blocks in the 24×24px Format
 
 
 
